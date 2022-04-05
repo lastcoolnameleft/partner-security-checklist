@@ -6,6 +6,6 @@
 * [Are security policies & configurations baked into your IaC templates and process?](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/policy-as-code)
 * [MDo you have security alerts configured?](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-overview)
 * [Do you scan your container images?](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-container-registries-usage)
-* [Do you implement runtime protection/scanning for VMs and/or containers?](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-servers-introductio)
-https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-containers-introduction?tabs=defender-for-container-arch-aks),
+* [Do you implement runtime protection/scanning for VMs and/or containers?](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-servers-introduction)
+  * [Defender for Containers Introduction](https://docs.microsoft.com/en-us/azure/defender-for-cloud/defender-for-containers-introduction?tabs=defender-for-container-arch-aks)
 * [Are you automating your patching updates and patching every month?](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-overview) [Manage Updates for VM](https://docs.microsoft.com/en-us/azure/automation/update-management/manage-updates-for-vm)
